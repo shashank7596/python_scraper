@@ -1,0 +1,11 @@
+flask-restplus==0.9.2
+newspaper3k==0.2.8
+cloudscraper==1.2.20
+feedparser==5.2.1
+requests==2.22.0
+Unidecode==1.1.1
+google==2.0.3
+html2text==2020.1.16
+Werkzeug==0.16.0
+elasticsearch>=6.0.0,<7.0.0
+elasticsearch-dsl>=6.0.0,<7.0.0
